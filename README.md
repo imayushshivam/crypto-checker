@@ -1,6 +1,6 @@
 # Crypto Checker
 
-<a href="https://crypto-checker-pink.vercel.app/" target="_blank">Crypto Checker</a>
+<a href="https://crypto-checker-pink.vercel.app/" onclick="window.open(this.href, '_blank'); return false;">Crypto Checker</a>
 
 Crypto Checker is a React web application that provides users with information about cryptocurrencies, including rankings, prices in various currencies, and exchange details.
 
